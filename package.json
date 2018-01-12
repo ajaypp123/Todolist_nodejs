@@ -1,0 +1,16 @@
+{
+  "name": "todo-node-js-playlist",
+  "version": "1.0.0",
+  "description": "A small to-do app.",
+  "main": "app.js",
+  "repository": "https://github.com/hikurangi/todo-node-js-playlist.git",
+  "author": "hikurangi <hikurangi@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "ejs": "^2.5.6",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.4",
+    "nodemon": "^1.11.0"
+  }
+}
